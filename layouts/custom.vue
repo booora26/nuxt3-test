@@ -11,9 +11,3 @@
     }
 </script>
 
-<style lang="css" scoped>
-.container {
-    background-color: lightblue;
-}
-
-</style>
