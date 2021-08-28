@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9],{9:(l,e,s)=>{s.r(e),s.d(e,{default:()=>a});var n=s(252),u=s(577);function r(d,o,c,i,m,p){return(0,n.wg)(),(0,n.iD)("div",null,(0,u.zw)(d.$route.params.client)+" "+(0,u.zw)(d.$route.params.id),1)}const t={layout:"custom"};t.render=r;const a=t}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[237],{237:(d,s,e)=>{e.r(s),e.d(s,{default:()=>l});var t=e(252);function u(r,c,a,o,p,i){return(0,t.wg)(),(0,t.iD)("div",null," Hello Nuxt3! ")}const n={};n.render=u;const l=n}}]);
